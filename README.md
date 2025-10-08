@@ -1,2 +1,2 @@
-# WP1
-Rosi 
+# WP-1
+Rosi, Gladies, Habib
