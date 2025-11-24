@@ -1,3 +1,2 @@
-# WP-1
-Web Peminjaman Fasilitas Kampus TAU
+# WEP PEMINJAMAN FASILITAS KAMPUS
 Rosi, Gladies, Habib
