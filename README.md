@@ -1,2 +1,0 @@
-# WEB PEMINJAMAN FASILITAS KAMPUS
-Rosi, Gladies, Habib
